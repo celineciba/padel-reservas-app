@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "Padel Reservas",
+    "slug": "padel-reservas-app",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#0A0D0B"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0A0D0B"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
